@@ -1,3 +1,9 @@
+macro_e_accent_1: macro_e_accent_1{
+compatible = "zmk,behavior-macro";
+label = "macro_e_accent_1";
+#binding-cells = <0>;
+bindings = <&kp LA(E)>, <&kp E>;
+};
 macro_str_ipl: macro_str_ipl{
 compatible = "zmk,behavior-macro";
 label = "macro_str_ipl";
