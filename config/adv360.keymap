@@ -63,7 +63,7 @@
  &trans     &trans  &macro_e_accent_3  &macro_e_accent_1  &macro_e_accent_2      &trans                 &none   &none  &trans  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &macro_macro_lambda  &macro_str_ipl
  &trans     &trans         &kp ESCAPE          &kp QMARK    &kp EXCLAMATION  &kp DOLLAR                 &none  &trans  &trans                                                     &trans               &trans           &none  &kp COLON  &kp LEFT_PARENTHESIS  &kp LEFT_BRACKET  &kp LEFT_BRACE  &trans  &trans
  &trans  &kp LC(Z)          &kp LC(X)             &trans             &trans      &trans                 &none   &none  &trans                  &none              &none           &trans                &none           &none   &kp PLUS             &kp EQUAL         &kp MINUS          &trans  &trans  &trans
- &trans     &trans             &trans             &trans            &kp F10      &trans            &kp DELETE  &trans  &trans                 &trans             &trans          &kp F11              &kp F12          &trans     &trans                &trans
+ &trans     &trans             &trans             &kp F1            &kp F10      &trans            &kp DELETE  &trans  &trans                 &trans             &trans          &kp F11              &kp F12          &trans     &trans                &trans
             >;
         };
 
